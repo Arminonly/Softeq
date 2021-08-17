@@ -81,7 +81,7 @@ alert(bigLetters("A", "Z").join());
 
 //! Test 8*
 let name = "";
-let number = Math.floor(Math.random() * 1000000);
+let number = Math.floor(Math.random() * 1e6);
 let guesses = 0;
 let maxGuesses = 50;
 
